@@ -1,2 +1,2 @@
 # Silly-Gear
-passwords, hashes, port scanning, ip grabbing.
+passwords generating, hashing passwords, port scanning, ip grabbing, open processes listing.
