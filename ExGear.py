@@ -1,4 +1,4 @@
-# Version >= Python3
+# Version += Python3
 # Creator = ELZO3BI
 
 import random
